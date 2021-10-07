@@ -101,9 +101,7 @@ footer{
     opacity: 0.7;
     transform: scale(1);
   } 
-.* {
-  box-sizing: border-box;
-}
+
 
 /* Float four columns side by side */
 .column {

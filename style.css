@@ -9,11 +9,7 @@ nav{
 li a{
     margin-left: 100px;
 }
-  main {
-    display: flex;
-    flex-wrap: nowrap;
-    justify-content: space-between;
-  }
+
 
 .welcome{
     color: rgb(221, 23, 23);
